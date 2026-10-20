@@ -174,7 +174,7 @@ It focuses on the intersection of product management and engineering, with empha
 
 The complete assessment is available in the accompanying presentation:
 
-**[View Technical Product Management Assessment](./Technical_Product_Management_Assessment_Reddit.pdf)**
+**[View Technical Product Management Assessment](Technical%20Product%20Management%20Assessment%20-%20Cover.pdf)**
 
 ## Capabilities Demonstrated
 
